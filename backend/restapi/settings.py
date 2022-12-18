@@ -79,6 +79,7 @@ WSGI_APPLICATION = 'restapi.wsgi.application'
 CORS_ALLOWED_ORIGINS = [
     'https://tylerking.io',
     'https://blog.tylerking.io',
+    'https://fullstack-blog.netlify.app/',
     'http://localhost:3000',
     'http://127.0.0.1:3000',
 ]
